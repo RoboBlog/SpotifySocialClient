@@ -66,6 +66,7 @@
     "core-js": "^2.0.0",
     "history": "^4.6.3",
     "isomorphic-fetch": "latest",
+    "jquery": "latest",
     "jwt-decode": "latest",
     "normalize.css": "^4.0.0",
     "prop-types": "latest",
@@ -77,13 +78,13 @@
     "react-redux": "^5.0.5",
     "react-router": "latest",
     "react-router-dom": "^4.1.1",
+    "react-router-redux": "latest",
     "react-validation": "latest",
     "reactstrap": "^4.8.0",
     "redux": "^3.7.1",
     "redux-form": "latest",
+    "redux-promise": "^0.5.3",
     "redux-thunk": "latest",
-    "react-router-redux": "latest",
-    "jquery": "latest",
     "sockjs-client": "latest",
     "stompjs": "latest"
   }
